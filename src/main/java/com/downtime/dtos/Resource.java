@@ -1,5 +1,4 @@
 package com.downtime.dtos;
-import dtos.ResourceTypeEnum;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
